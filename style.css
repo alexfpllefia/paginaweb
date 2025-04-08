@@ -1,0 +1,25 @@
+@import url('https://fonts.cdnfonts.com/css/avenir');
+
+body{
+    font-family: 'Avenir';
+}
+
+header{
+    background-color: silver;
+    margin-top: 0%;
+}
+
+.head1{
+    display: flex;
+    gap: 50px;
+    font-size: large;
+    justify-content: end;
+    margin-right: 100px;
+    margin-top: 0%;
+    color: red;
+}
+
+.logo1 {
+    display: flex;
+    margin-top: -20px;
+}
