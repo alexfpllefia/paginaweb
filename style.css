@@ -2,12 +2,19 @@
 
 body{
     font-family: 'Avenir';
+    width: 100%;
 }
 
 header{
-    background-color: silver;
+    background-color: black;
     margin-top: 0%;
+    width: 100%;
 }
+
+a {
+    text-decoration: none;
+}
+
 
 .head1{
     display: flex;
@@ -17,9 +24,9 @@ header{
     margin-right: 100px;
     margin-top: 0%;
     color: red;
+
 }
 
 .logo1 {
     display: flex;
-    margin-top: -20px;
 }
